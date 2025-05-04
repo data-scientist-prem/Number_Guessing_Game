@@ -12,7 +12,7 @@ This is a mini-project written in C where the user plays a **Number Guessing Gam
 2. The computer then randomly selects a number between **0 to 100**.
 
 3. The user is prompted to guess the number. For each guess:
-   - The game provides hints like *"Try a lower number!"* or *"Try a higher number!"*
+   - The game provides hints like *"Lower the number please!"* or *"Higher the number please!"*
    - It also displays the **remaining attempts** after each guess.
 
 4. If the user runs out of attempts, the game ends with a **"Game Over"** message.
@@ -31,27 +31,20 @@ To compile and run the game:
 gcc number_guessing_game.c -o game
 ./game
 .
+```
 
-## 📚 What I Learned
+# 📚 What I Learned
 This was one of my first C language projects. Apart from practicing loops, conditionals, functions, and random number generation in C, I also learned:
 
 How to implement input validation to prevent crashes.
 
-The value of using AI tools like ChatGPT to debug, optimize, and enhance project features.
+The value of using AI tools like **ChatGPT** to debug, optimize, and enhance project features.
 
 How to turn basic code into an interactive, user-friendly game.
 
-## 🚀 Project Status
+# 🚀 Project Status
 ✅ Completed for fun and learning purposes.
 🎓 Created as part of my C language learning journey.
 
 ## 🙋‍♂️ About Me
-I'm a student learning to become an AI engineer and data scientist. This project is a small step in my journey — feel free to check out my profile or connect with me on LinkedIn
-
----
-
-Let me know if you’d like to:
-
-- Add this directly to a `README.md` file
-- Get a version tailored for LinkedIn post formatting
-- Include this in a portfolio-style layout
+I'm a student learning to become an **AI engineer** and **data scientist**. This project is a small step in my journey — feel free to check out my profile or connect with me on **LinkedIn(www.linkedin.com/in/gupta-prem)**
